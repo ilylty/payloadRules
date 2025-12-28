@@ -6,3 +6,6 @@ payload:
   - '+.csdnimg.cn'
   - '+.snowflake.qq.com'
   - '+.ipleak.net'
+  - '+.tiktokcdn.com'
+  - '+.ttwstatic.com'
+  - '+.fcdnstatic-intl.com'
