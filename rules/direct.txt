@@ -1,0 +1,5 @@
+payload:
+  - '+.mihoyo.com'
+  - '+.download.visualstudio.microsoft.com'
+  - '+.1415926.ddns-ip.net'
+  - '+.pages.dev'

@@ -1,0 +1,8 @@
+payload:
+  - '+.googlevideo.com'
+  - '+.ytimg.com'
+  - '+.telesco.pe'
+  - '+.blog.csdn.net'
+  - '+.csdnimg.cn'
+  - '+.snowflake.qq.com'
+  - '+.ipleak.net'
